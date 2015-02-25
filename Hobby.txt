@@ -5,9 +5,12 @@ Lots and lots
 ha ha ha ha
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sometimes I do not enjoy bioinformatics
 But most of the time I do
 =======
+=======
+>>>>>>> parent of 97f9de1... Added reality
 
 >>>>>>> parent of 97f9de1... Added reality
 
